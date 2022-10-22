@@ -1,19 +1,17 @@
 # pokecards
 
-[![PyPI - Version](https://img.shields.io/pypi/v/pokecards.svg)](https://pypi.org/project/pokecards)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pokecards.svg)](https://pypi.org/project/pokecards)
-
 -----
 
 **Table of Contents**
 
-- [Installation](#installation)
-- [License](#license)
+- [pokecards](#pokecards)
+  - [Installation](#installation)
+  - [License](#license)
 
 ## Installation
 
 ```console
-pip install pokecards
+pip install git+https://github.com/dbarbuzzie/pokecards.git
 ```
 
 ## License
